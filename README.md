@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 HigoTheDev  
+# ＨｉｇｏＴｈｅＤｅｖ  
 *a.k.a your friendly developer!*  
 
 ![GameDevGIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnA3bms4M2t1ODE2NXBzc3VwYTc0b3lueHo0bWNlZmpsZW1iN2djMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif)
