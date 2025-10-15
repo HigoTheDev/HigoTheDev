@@ -1,4 +1,4 @@
-# 💫 Higo  
+#                                💫 HigoTheDev 
 *a.k.a your friendly developer!*  
 
 ![GameDevGIF](https://i.imgur.com/3Z9QZ1Z.gif) <!-- GIF pixel art dev vibe -->
