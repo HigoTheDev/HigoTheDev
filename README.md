@@ -40,6 +40,9 @@
   <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/claude.svg" />
   <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/gemini.svg" />
   <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/chatgpt.svg" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/claude.svg" width="45" height="45" alt="Claude" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/gemini.svg" width="45" height="45" alt="Gemini" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/chatgpt.svg" width="45" height="45" alt="ChatGPT" />
 </p>
 
 </td>
