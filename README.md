@@ -26,18 +26,21 @@
 <td align="center" width="50%">
 
 ### 💻 Tech Stack
-<p align="center">
-  
-![C#](https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/csharp.svg)
-![C++](https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/cpp.svg?short_path=458f286)
-![TypeScript](https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/typescript.svg)
-![Next JS](https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/nextjs.svg)
-![NodeJS](https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/nodejs.svg)
-![Pandas](https://github.com/YuheshPandian/ICONIC/blob/main/icons/dark/pandas.svg)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-
+<p align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:10px;">
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/csharp.svg" width="40" height="40" alt="C#" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/cpp.svg" width="40" height="40" alt="C++" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/typescript.svg" width="40" height="40" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/nextjs.svg" width="40" height="40" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/nodejs.svg" width="40" height="40" alt="NodeJS" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/sqlite.svg" width="40" height="40" alt="SQLite" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/mongodb.svg" width="40" height="40" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/postgresql.svg" width="40" height="40" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/pandas.svg" width="40" height="40" alt="Pandas" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/tensorflow.svg" width="40" height="40" alt="TensorFlow" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/pytorch.svg" width="40" height="40" alt="PyTorch" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/unrealengine.svg" width="40" height="40" alt="Unreal Engine" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/unity.svg" width="40" height="40" alt="Unity" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/godot.svg" width="40" height="40" alt="Godot Engine" />
 </p>
 
 </td>
