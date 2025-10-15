@@ -58,6 +58,10 @@
 
 ## 🌐 Connect with me!
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Connect+with+me;Find+me+on+these+platforms!" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://instagram.com/j_higo_">
     <img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/instagram.svg" width="40" height="40" style="margin: 0 10px;" />
   </a><a href="https://www.linkedin.com/in/luong-pham-84470b316">
