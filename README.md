@@ -1,6 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=3000&pause=1000&color=00FFFF,F000FF&center=true&vCenter=true&width=400&lines=HigoTheDev" alt="Typing SVG" />
+<svg viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .neon {
+      font-family: 'Orbitron', sans-serif;
+      font-size: 42px;
+      fill: #00FFFF;
+      filter: drop-shadow(0 0 6px #00FFFF)
+              drop-shadow(0 0 12px #00FFFF)
+              drop-shadow(0 0 18px #00FFFF);
+    }
+  </style>
+  <text x="50%" y="60%" text-anchor="middle" class="neon">HigoTheDev</text>
+</svg>
 
 *a.k.a your friendly developer!*  
 
