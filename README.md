@@ -33,6 +33,15 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png" width="45" height="45" alt="Godot Engine" />
 </p>
 
+### 🔨 Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webstorm.png" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/claude.svg" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/gemini.svg" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/chatgpt.svg" />
+</p>
+
 </td>
 <td align="center" width="50%">
 
