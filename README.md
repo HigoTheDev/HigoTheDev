@@ -65,6 +65,9 @@
   </a><!--
   --><a href="https://www.linkedin.com/in/luong-pham-84470b316">
     <img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/linkedin.svg" width="40" height="40" style="margin: 0 10px;" />
+  </a><!--
+  --><a href="https://discord.com/users/justhigo">
+    <img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/discord.svg" width="40" height="40" style="margin: 0 10px;" />
   </a>
 </p>
 
