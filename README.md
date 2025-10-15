@@ -1,7 +1,7 @@
 #                                💫 HigoTheDev 
 *a.k.a your friendly developer!*  
 
-![GameDevGIF](https://i.imgur.com/3Z9QZ1Z.gif) <!-- GIF pixel art dev vibe -->
+![GameDevGIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTF2dWVzbXVmMjJsMWhtbzNsaXVxN2I4ODdjYmY5MDFyY3U2dWw2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif) <!-- GIF pixel art dev vibe -->
 
 ---
 
