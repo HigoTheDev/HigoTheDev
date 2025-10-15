@@ -21,6 +21,10 @@
 
 ---
 
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
 ## 🛠️ My Tools & Technologies
 
 ### 🧠 Languages & Frameworks
@@ -41,27 +45,13 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png" width="45" height="45" alt="Godot Engine" />
 </p>
 
-### ⚙️ Hardware & Platforms
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" width="45" height="45" alt="Arduino" />
-</p>
-
----
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=HigoTheDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HigoTheDev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HigoTheDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 </td>
 <td align="center" width="50%">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HigoTheDev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=HigoTheDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HigoTheDev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HigoTheDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </td>
 </tr>
@@ -70,6 +60,11 @@
 ---
 
 <div align="center">
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=HigoTheDev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
 
 [![](https://visitcount.itsvg.in/api?id=HigoTheDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
