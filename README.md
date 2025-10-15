@@ -4,7 +4,7 @@
 
 *a.k.a your friendly developer!*  
 
-![GameDevGIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTF2dWVzbXVmMjJsMWhtbzNsaXVxN2I4ODdjYmY5MDFyY3U2dWw2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif)
+![GameDevGIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5pcW13NWhpcmpmZDVpZnMyZW02MGp6MHZoMnFvNWt6OWp6MjhqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHF6VkFM4uKeRDa/giphy.gif)
 
 </div>
 
