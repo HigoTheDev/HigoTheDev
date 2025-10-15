@@ -1,11 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=💫+HigoTheDev;a.k.a+your+friendly+developer!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=400&lines=HigoTheDev" alt="Typing SVG" />
+
 *a.k.a your friendly developer!*  
 
-![GameDevGIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnA3bms4M2t1ODE2NXBzc3VwYTc0b3lueHo0bWNlZmpsZW1iN2djMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif)
+![GameDevGIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTF2dWVzbXVmMjJsMWhtbzNsaXVxN2I4ODdjYmY5MDFyY3U2dWw2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif)
 
 </div>
+
 
 ---
 
