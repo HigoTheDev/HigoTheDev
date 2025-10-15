@@ -47,10 +47,10 @@
 </td>
 <td align="center" width="50%">
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=HigoTheDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HigoTheDev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HigoTheDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HigoTheDev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HigoTheDev&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HigoTheDev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </td>
 </tr>
