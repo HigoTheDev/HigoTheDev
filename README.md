@@ -35,8 +35,8 @@
 
 ### 🔨 Tools
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webstorm.png" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webstorm.png" width="45" height="45" alt="Webstorm" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="45" height="45" alt="Visual Studio Code" />
   <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/claude.svg" width="45" height="45" alt="Claude" />
   <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/gemini.svg" width="45" height="45" alt="Gemini" />
   <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/chatgpt.svg" width="45" height="45" alt="ChatGPT" />
