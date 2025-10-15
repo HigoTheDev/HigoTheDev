@@ -9,18 +9,6 @@
 
 ---
 
-## 🌐 Connect with me!
-<p align="center">
-  <a href="https://instagram.com/j_higo_">
-    <img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/instagram.svg" width="40" height="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/luong-pham-84470b316">
-    <img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/linkedin.svg" width="40" height="40" />
-  </a>
-</p>
-
----
-
 <table align="center">
 <tr>
 <td align="center" width="50%">
@@ -59,7 +47,17 @@
 
 ---
 
+## 🌐 Connect with me!
+<p align="center">
+  <a href="https://instagram.com/j_higo_">
+    <img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/instagram.svg" width="40" height="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/luong-pham-84470b316">
+    <img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/linkedin.svg" width="40" height="40" />
+  </a>
+</p>
 
+---
 [![](https://visitcount.itsvg.in/api?id=HigoTheDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
