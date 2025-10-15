@@ -32,15 +32,14 @@
   <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/typescript.svg" width="40" height="40" alt="TypeScript" />
   <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/nextjs.svg" width="40" height="40" alt="Next.js" />
   <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/nodejs.svg" width="40" height="40" alt="NodeJS" />
-  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/sqlite.svg" width="40" height="40" alt="SQLite" />
   <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/mongodb.svg" width="40" height="40" alt="MongoDB" />
   <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/postgresql.svg" width="40" height="40" alt="PostgreSQL" />
   <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/pandas.svg" width="40" height="40" alt="Pandas" />
   <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/tensorflow.svg" width="40" height="40" alt="TensorFlow" />
   <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/pytorch.svg" width="40" height="40" alt="PyTorch" />
-  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/unrealengine.svg" width="40" height="40" alt="Unreal Engine" />
-  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/unity.svg" width="40" height="40" alt="Unity" />
-  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/godot.svg" width="40" height="40" alt="Godot Engine" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unreal_engine.png" width="40" height="40" alt="Unreal Engine" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" width="40" height="40" alt="Unity" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png" width="40" height="40" alt="Godot Engine" />
 </p>
 
 </td>
