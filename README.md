@@ -6,7 +6,7 @@
 
 *a.k.a your friendly developer!*  
 
-![GameDevGIF](https://tenor.com/nI1Eamd9A6x.gif)
+![GameDevGIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHQ0YTQ4YnZzZ3phZThjeWd1Y2NmeHh3MHppYnJmOG84NWl3bzRqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif)
 
 </div>
 
