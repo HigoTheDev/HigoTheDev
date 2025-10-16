@@ -66,7 +66,7 @@
 <p align="center">
   <a href="https://discord.com/users/justhigo"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
   <a href="https://instagram.com/j_higo_"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
-  <a href="luongphamvu2006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
+  <a href="mailto:luongphamvu2006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
 </p>
 
 
