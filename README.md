@@ -6,7 +6,7 @@
 
 *a.k.a your friendly developer!*  
 
-![GameDevGIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Vtemt1N3R4Z2RjM212MDhtYnltbjBsY2d0cmZucm50ZXRnNXYydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5e25aUTZPcI94uMZgv/giphy.gif)
+![GameDevGIF](https://tenor.com/nI1Eamd9A6x.gif)
 
 </div>
 
@@ -60,7 +60,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Connect+with+me;Find+me+on+these+platforms!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=de4dbf&center=true&vCenter=true&width=435&lines=Connect+with+me;Find+me+on+these+platforms!" alt="Typing SVG" />
 </p>
 
 <p align="center">
