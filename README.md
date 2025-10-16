@@ -24,7 +24,7 @@
   <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/cpp.svg" width="45" height="45" alt="C++" />
   <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/csharp.svg" width="45" height="45" alt="C#" />
   <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/python.svg" width="45" height="45" alt="Python" />
-  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/kotlin.svg" width="45" height="45" alt="Kotlin" />
+  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/typescript.svg" width="45" height="45" alt="TypeScript" />
   <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/flutter.svg" width="45" height="45" alt="Flutter" />
   <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/git.svg" width="45" height="45" alt="Git" />
   <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/github.svg" width="45" height="45" alt="GitHub" />
