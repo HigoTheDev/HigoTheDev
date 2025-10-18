@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=3000&pause=1000&color=de4dbf&center=true&vCenter=true&width=450&lines=HigoTheDev" alt="Typing SVG" />
 
-*a.k.a your friendly developer!*  
+*your friendly neighbourhood developer!*  
 
 ![GameDevGIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHQ0YTQ4YnZzZ3phZThjeWd1Y2NmeHh3MHppYnJmOG84NWl3bzRqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif)
 
