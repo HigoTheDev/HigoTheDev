@@ -19,32 +19,8 @@
 
 ## 🛠️ Tech Stack
 
-### 🧠 Languages & Frameworks
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/cpp.svg" width="45" height="45" alt="C++" />
-  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/csharp.svg" width="45" height="45" alt="C#" />
-  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/python.svg" width="45" height="45" alt="Python" />
-  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/typescript.svg" width="45" height="45" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/nodejs.svg" width="45" height="45" alt="NodeJS" />
-  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/git.svg" width="45" height="45" alt="Git" />
-  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/github.svg" width="45" height="45" alt="GitHub" />
-</p>
+pending
 
-### 🎮 Game Engines
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" width="45" height="45" alt="Unity" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unreal_engine.png" width="45" height="45" alt="Unreal Engine" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png" width="45" height="45" alt="Godot Engine" />
-</p>
-
-### 🔨 Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webstorm.png" width="45" height="45" alt="Webstorm" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="45" height="45" alt="Visual Studio Code" />
-  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/claude.svg" width="45" height="45" alt="Claude" />
-  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/gemini.svg" width="45" height="45" alt="Gemini" />
-  <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/chatgpt.svg" width="45" height="45" alt="ChatGPT" />
-</p>
 
 </td>
 <td align="center" width="50%">
